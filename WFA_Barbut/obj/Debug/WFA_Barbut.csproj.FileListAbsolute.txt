@@ -1,0 +1,10 @@
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.exe.config
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.exe
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.pdb
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csprojAssemblyReference.cache
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.Form1.resources
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.Properties.Resources.resources
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csproj.GenerateResource.cache
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csproj.CoreCompileInputs.cache
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.exe
+C:\Users\sccde\source\repos\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.pdb
